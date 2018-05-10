@@ -22,7 +22,7 @@ This project contains implementations based on:
 
 **Development year(s)**: `2016`
 
-**Authors**: [ShadowTemplate](https://github.com/ShadowTemplate)
+**Author(s)**: [ShadowTemplate](https://github.com/ShadowTemplate)
 
 ---
 ## Getting Started
