@@ -5,11 +5,11 @@ set. The algorithms are described in the book *The Art of Multiprocessor
 Programming* by Maurice Herlihy and Nir Shavit ([ISBN 978-0-12-370591-4](
 https://www.elsevier.com/books/the-art-of-multiprocessor-programming/herlihy/978-0-12-370591-4)).
 This project contains implementations based on:
-* Coarse-Grained Synchronization (§ 9.4)
-* Fine-Grained Synchronization (§ 9.5)
-* Optimistic Synchronization (§ 9.6)
-* Lazy Synchronization (§ 9.7)
-* Non-Blocking Synchronization (§ 9.8)
+* [Coarse-Grained Synchronization](src/sets/CoarseGrainedListSet.java) (§ 9.4)
+* [Fine-Grained Synchronization](src/sets/FineGrainedListSet.java) (§ 9.5)
+* [Optimistic Synchronization](src/sets/OptimisticListSet.java) (§ 9.6)
+* [Lazy Synchronization](src/sets/LazyListSet.java) (§ 9.7)
+* [Non-Blocking Synchronization](src/sets/NonBlockingListSet.java) (§ 9.8)
 
 ---
 ## Information
